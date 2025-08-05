@@ -4,7 +4,7 @@ Durante a Imersão Dados com Python da Alura, estou aprendendo, na prática, com
 
 ## 📚 Conteúdo da Imersão
 
-- Manipulação de dados com a biblioteca [Pandas](https://pandas.pydata.org/)
+- Manipulação de dados
 - Desenvolvimento de dashboards interativos
 - Aplicação prática com dados reais
 - Organização e boas práticas para análise de dados
