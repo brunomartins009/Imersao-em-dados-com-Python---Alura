@@ -1,2 +1,5 @@
 # Ignorar ambiente virtual
 imersao_python/
+
+# Ignorar arquivos não necessários
+=4.2.0
