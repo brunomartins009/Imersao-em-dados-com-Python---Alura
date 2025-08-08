@@ -21,7 +21,7 @@ st.set_page_config(
 
 ### Carregamento de dados
 
-df = pd.read_csv("Código fonte/Dados_finais-imersao_alura.csv")
+df = pd.read_csv("dados-finais-imersao-alura.csv")
 
 ### Barra lateral (filtros)
 st.sidebar.header("Filtros")
