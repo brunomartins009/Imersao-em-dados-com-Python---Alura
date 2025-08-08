@@ -21,7 +21,7 @@ st.set_page_config(
 
 ### Carregamento de dados
 
-df = pd.read_csv("/home/bruno/Documentos/Cursos/Imersao-em-dados-com-Python---Alura/Data/dados-imersao-final.csv")
+df = pd.read_csv("Dados_finais-imersao_alura.csv")
 
 ### Barra lateral (filtros)
 st.sidebar.header("Filtros")
@@ -113,7 +113,7 @@ col_graf3, col_graf4 = st.columns(2)
 
 with col_graf3:
     if not df_filtrado.empty:
-        remoto_contagem = df_filtrado['tipo_de_trabalho'].value_counts().reset_index()
+        remoto_contagem = df_filtrado['tipo_trabalho'].value_counts().reset_index()
         remoto_contagem.columns = ['tipo_trabalho', 'quantidade']
         grafico_remoto = px.pie(
             remoto_contagem,
