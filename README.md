@@ -13,12 +13,21 @@ Durante a Imersão Dados com Python da Alura, estou aprendendo, na prática, com
 
 - [Python 3](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Plotly](https://plotly.com/python/)
 - [VS Code](https://code.visualstudio.com/)
+- [Streamlit](https://streamlit.io/)
+
 
 ## 📅 Progresso
 - [x] Aula 1 -- Carregar arquivos CSV e visualização inicial
 
-- [ ] Aula 2 -- Tratamento de dados
+- [x] Aula 2 -- Tratamento de dados
+
+- [x] Aula 3 -- Criar Gráficos
+
+- [x] Aula 4 -- Construir uma dashboard interativa
 
 ## 📌 Sobre
 Este repositório contém meus códigos, anotações e experimentos realizados durante a Imersão Dados com Python da Alura.
